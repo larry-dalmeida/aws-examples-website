@@ -1,0 +1,6 @@
+# Editor, OS and temporary files
+.vscode/
+.DS_Store
+
+# Generated
+.terraform/
